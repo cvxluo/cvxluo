@@ -4,7 +4,7 @@
 
 ### 👋
 
-Hi! I'm Charlie, currently a CS major at Georgia Tech. I love hackathons and app dev - I've gone to [quite a few events](https://devpost.com/charliexluo), and in high school I ran [hackPHS](https://hackphs.tech/). Right now, I'm studying combinatorics and algorithm theory with a tentative plan to continue into ML classes and projects. I'm always down to learn something new or collaborate on a project, so shoot me a message anytime!
+Hi! I'm Charlie, currently a CS major at Georgia Tech. I love hackathons and app dev -  I'm currently an organizer at HackGT, and in high school I ran [hackPHS](https://hackphs.tech/). I've gone to quite a few events, and if you're interested, you can check out some of my hackathon projects [here](https://devpost.com/charliexluo). I'm always down to learn something new or collaborate on a project, so shoot me a message anytime!
 
 
 
