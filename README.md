@@ -4,7 +4,7 @@
 
 ### 👋
 
-Hi! I'm Charlie, currently a CS + Math major at Georgia Tech. I love hackathons and app dev -  I was formerly a co-director at HexLabs (running HackGT), and in high school I ran [hackPHS](https://hackphs.tech/). I've gone to quite a few events, and if you're interested, you can check out some of my hackathon projects [here](https://devpost.com/charliexluo). I'm always down to learn something new or collaborate on a project, so shoot me a message anytime!
+Hi! I'm Charlie Luo, recent CS + Math graduate from Georgia Tech. I love hackathons and app dev -  I was formerly a co-director at HexLabs (running HackGT), and in high school I ran [hackPHS](https://hackphs.tech/). I've gone to quite a few events, and if you're interested, you can check out some of my hackathon projects [here](https://devpost.com/charliexluo). I'm always down to learn something new or collaborate on a project, so shoot me a message anytime!
 
 
 
@@ -18,4 +18,4 @@ Hi! I'm Charlie, currently a CS + Math major at Georgia Tech. I love hackathons 
 </div>
 <br />
 
-Also, make sure to check out my [website](https://cvxluo.dev/) where I (plan to) write about stuff I'm doing!
+Also, make sure to check out my [website](https://charlieluo.dev/) where I (plan to) write about stuff I'm doing!
