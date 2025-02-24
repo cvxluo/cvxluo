@@ -2,7 +2,7 @@
 
 Hi! I'm Charlie Luo. 
 
-I'm currently a software engineer at [Streamline](https://streamlineclimate.com/), where I help customers find, understand, and win government funding. Before that, I studied at Georgia Tech, graduating with degrees in computer science and mathematics.
+I'm currently a software engineer at [Streamline](https://streamlineclimate.com/), where I help customers find, understand, and win government funding. Before that, I studied at Georgia Tech, where I graduated with degrees in computer science and mathematics.
 
 I got my start in hackathons, and I've attended and organized a number of events. I was a director at HexLabs, where I ran [HackGT](https://hack.gt/), and in high school I ran [hackPHS](https://hackphs.tech/). My old projects are on [Devpost](https://devpost.com/charliexluo).
 
